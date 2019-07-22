@@ -1,7 +1,6 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage": "http://magdalenapaluch.github.io/weather",
   "icons": [
     {
       "src": "favicon.ico",
